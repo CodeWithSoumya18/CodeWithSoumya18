@@ -1,82 +1,86 @@
 <div align="center">
 
-<!-- 🔥 ATTRACTIVE ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Soumyashree%20Nayak&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<!-- 🚀 ULTRA MODERN ANIMATED HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:0f0c29,50:302b63,100:24243e&text=Soumyashree%20Nayak&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20MERN%20Engineer&descAlignY=65&descSize=18"/>
 
-<!-- ✨ TYPING EFFECT -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+%7C+Node+%7C+MongoDB;Python+%7C+Java+%7C+C+%7C+SQL;Turning+Ideas+Into+Reality" />
+<!-- ✨ SMOOTH TYPING EFFECT -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2600&pause=900&color=7DF9FF&center=true&vCenter=true&width=800&lines=Designing+Modern+Web+Experiences;Engineering+Scalable+Backends;React+%7C+Node+%7C+MongoDB;Python+%7C+Java+%7C+C+%7C+SQL;Turning+Ideas+Into+Impactful+Products" />
 
 <br/><br/>
 
-<!-- BADGES -->
-<img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20DEVELOPER-38BDF8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STACK-MERN-0F2027?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20EVERYDAY-black?style=for-the-badge"/>
+<!-- 🔥 PREMIUM BADGES -->
+<img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-7DF9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN-STACK-302b63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-SCALABLE%20SYSTEMS-24243e?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<h2>🚀 About Me</h2>
+<h2>👨‍💻 About Me</h2>
 
 <p>
-Hi, I’m <b>Soumyashree Nayak</b> — a passionate <b>Full Stack Developer</b> who loves building
-modern, scalable, and secure web applications.
-I enjoy working across frontend, backend, and databases to deliver complete solutions.
+I’m <b>Soumyashree Nayak</b>, a <b>Full Stack Developer</b> passionate about building
+<strong>modern, secure, and high-performance web applications</strong>.
+I enjoy crafting clean UI, powerful backend systems, and databases that scale.
 </p>
 
 <ul>
   <li>🎓 B.Sc IT (2nd Year)</li>
   <li>💻 MERN Stack Developer</li>
-  <li>⚙️ Backend & API focused</li>
-  <li>🔥 Strong interest in system design & logic</li>
+  <li>⚙️ Backend, APIs & Authentication Expert</li>
+  <li>🔥 Strong problem-solving & system thinking</li>
 </ul>
 
 ---
 
-<h2>🧠 Languages & Technologies</h2>
+<h2>🧠 Languages • Frameworks • Tools</h2>
 
 <div align="center">
 
-<!-- Languages -->
+<!-- 🌐 Web & MERN -->
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
 <br/><br/>
+
+<!-- 💻 Programming Languages -->
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
 <br/><br/>
+
+<!-- 🛠️ Developer Tools -->
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,photoshop" />
 
 </div>
 
 ---
 
-<h2>💣 Core Skills</h2>
+<h2>🚀 What I Build</h2>
 
 <ul>
-  <li>✔️ Full Stack Web Development</li>
-  <li>✔️ REST API Development</li>
-  <li>✔️ Authentication & Authorization (JWT, OTP)</li>
-  <li>✔️ Database Design & Management</li>
-  <li>✔️ Problem Solving & Debugging</li>
+  <li>✔️ Full Stack Web Applications</li>
+  <li>✔️ Secure Authentication Systems (JWT, OTP, Roles)</li>
+  <li>✔️ RESTful APIs & Backend Architecture</li>
+  <li>✔️ SQL & NoSQL Database Design</li>
+  <li>✔️ Clean, Maintainable & Scalable Code</li>
 </ul>
 
 ---
 
-<h2>🚀 Projects Highlight</h2>
+<h2>💣 Featured Projects</h2>
 
 <ul>
   <li>
-    <b>🔐 Authentication System</b><br/>
-    JWT • OTP Email Verification • bcrypt • Secure APIs
+    <b>🔐 Advanced Authentication System</b><br/>
+    JWT • OTP Email Verification • bcrypt • Role-Based Access
   </li>
   <br/>
   <li>
     <b>📚 Book Store API</b><br/>
-    Node.js • Express • MongoDB • CRUD Operations
+    Node.js • Express • MongoDB • CRUD • MVC Architecture
   </li>
   <br/>
   <li>
     <b>🧑‍💼 Role-Based Admin Panel</b><br/>
-    Admin & Employee Roles • Dashboard • Access Control
+    Admin & Employee Dashboards • Permissions • Secure Login
   </li>
 </ul>
 
@@ -95,8 +99,8 @@ I enjoy working across frontend, backend, and databases to deliver complete solu
 <h2>🌐 Connect With Me</h2>
 
 <p>
-📧 <b>Email:</b> 8391soumyanayak@gmail.com <br/>
-💼 <b>LinkedIn:</b> 
+📧 <b>Email:</b> 8391soumya nayak <br/>
+💼 <b>LinkedIn:</b>
 <a href="https://www.linkedin.com/in/soumyashreenayak18/" target="_blank">
 linkedin.com/in/soumyashreenayak18
 </a>
@@ -106,9 +110,11 @@ linkedin.com/in/soumyashreenayak18
 
 <div align="center">
 
-<h3>⚡ Code • Create • Conquer ⚡</h3>
+<h2>⚔️ Developer Philosophy</h2>
+<h3><i>“Build clean. Think scalable. Ship confidently.”</i></h3>
 
-<!-- FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer"/>
+<!-- 🌌 CINEMATIC FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:24243e,50:302b63,100:0f0c29&section=footer"/>
 
 </div>
+

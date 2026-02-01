@@ -86,7 +86,7 @@ I build systems that are both functional under the hood and stunning to look at.
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+<!-- <h2>📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true"/>
@@ -94,14 +94,14 @@ I build systems that are both functional under the hood and stunning to look at.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true"/>
   <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1"/>
-</div>
+</div> -->
 
 ---
 
 <h2>🌐 Connect With Me</h2>
 
 <p>
-📧 <b>Email:</b> 8391soumya nayak <br/>
+📧 <b>Email:</b> 8391soumyanayak@gmail.com <br/>
 💼 <b>LinkedIn:</b> 
 <a href="https://www.linkedin.com/in/soumyashreenayak18/" target="_blank">
 linkedin.com/in/soumyashreenayak18

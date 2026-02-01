@@ -1,141 +1,114 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f2027,100:203a43&height=280&section=header&text=Soumyashree%20Nayak&fontSize=44&fontColor=00E5FF&animation=twinkling&fontAlignY=40"/>
+<!-- 🔥 ATTRACTIVE ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Soumyashree%20Nayak&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<!-- TYPING EFFECT -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Specialist;React.js+%7C+Node.js+%7C+MongoDB;I+Build+Systems+Not+Just+Websites;Code+That+Scales+%26+Performs" />
+<!-- ✨ TYPING EFFECT -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+%7C+Node+%7C+MongoDB;Python+%7C+Java+%7C+C+%7C+SQL;Turning+Ideas+Into+Reality" />
 
 <br/><br/>
 
 <!-- BADGES -->
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-00E5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stack-MERN-0f2027?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Always%20Learning-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20DEVELOPER-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STACK-MERN-0F2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20EVERYDAY-black?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<h2>🧠 The Developer Mindset</h2>
+<h2>🚀 About Me</h2>
 
 <p>
-I am <b>Soumyashree Nayak</b> — a <b>Full Stack Developer</b> obsessed with building
-<strong>clean architecture</strong>, <strong>secure APIs</strong>, and <strong>high-performance web applications</strong>.
-I don’t just write code — I engineer solutions.
+Hi, I’m <b>Soumyashree Nayak</b> — a passionate <b>Full Stack Developer</b> who loves building
+modern, scalable, and secure web applications.
+I enjoy working across frontend, backend, and databases to deliver complete solutions.
 </p>
 
 <ul>
   <li>🎓 B.Sc IT (2nd Year)</li>
-  <li>⚔️ Backend-heavy MERN Developer</li>
-  <li>🧩 Loves system design & logic</li>
-  <li>🚀 Turning ideas into production-ready apps</li>
+  <li>💻 MERN Stack Developer</li>
+  <li>⚙️ Backend & API focused</li>
+  <li>🔥 Strong interest in system design & logic</li>
 </ul>
 
 ---
 
-<h2>⚙️ Tech I Dominate</h2>
-
-<table>
-<tr>
-<td valign="top">
-
-<b>🎨 Frontend</b>
-<ul>
-<li>HTML5</li>
-<li>CSS3</li>
-<li>JavaScript (ES6+)</li>
-<li>React.js</li>
-<li>Bootstrap</li>
-</ul>
-
-</td>
-<td valign="top">
-
-<b>🔧 Backend</b>
-<ul>
-<li>Node.js</li>
-<li>Express.js</li>
-<li>JWT & Auth Systems</li>
-<li>RESTful APIs</li>
-</ul>
-
-</td>
-<td valign="top">
-
-<b>🗄️ Database</b>
-<ul>
-<li>MongoDB</li>
-<li>Mongoose</li>
-</ul>
-
-</td>
-</tr>
-</table>
-
----
-
-<h2>💣 High-Impact Projects</h2>
-
-<ul>
-  <li>
-    <b>🔐 Secure Authentication System</b><br/>
-    JWT • OTP Email Verification • bcrypt • Role-Based Access
-  </li>
-  <br/>
-  <li>
-    <b>📚 Book Store Backend API</b><br/>
-    Node.js • Express • MongoDB • MVC • CRUD
-  </li>
-  <br/>
-  <li>
-    <b>🧑‍💼 Role-Based Admin Panel</b><br/>
-    Admin Controls • Employee Login • Dashboard • Permissions
-  </li>
-</ul>
-
----
-
-<h2>📊 GitHub Battlefield Stats</h2>
+<h2>🧠 Languages & Technologies</h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
 <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
 <br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-frame=true&row=1" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,photoshop" />
+
 </div>
 
 ---
 
-<h2>⚡ Strengths That Matter</h2>
+<h2>💣 Core Skills</h2>
 
 <ul>
-  <li>✔️ Strong Logical Thinking</li>
-  <li>✔️ Clean & Maintainable Code</li>
-  <li>✔️ Excellent Communication</li>
-  <li>✔️ Fast Learner</li>
-  <li>✔️ Adapts to Any Tech Stack</li>
+  <li>✔️ Full Stack Web Development</li>
+  <li>✔️ REST API Development</li>
+  <li>✔️ Authentication & Authorization (JWT, OTP)</li>
+  <li>✔️ Database Design & Management</li>
+  <li>✔️ Problem Solving & Debugging</li>
 </ul>
 
 ---
 
-<h2>🌍 Connect With Me</h2>
+<h2>🚀 Projects Highlight</h2>
+
+<ul>
+  <li>
+    <b>🔐 Authentication System</b><br/>
+    JWT • OTP Email Verification • bcrypt • Secure APIs
+  </li>
+  <br/>
+  <li>
+    <b>📚 Book Store API</b><br/>
+    Node.js • Express • MongoDB • CRUD Operations
+  </li>
+  <br/>
+  <li>
+    <b>🧑‍💼 Role-Based Admin Panel</b><br/>
+    Admin & Employee Roles • Dashboard • Access Control
+  </li>
+</ul>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<h2>🌐 Connect With Me</h2>
 
 <p>
-📧 <b>Email:</b> your-email@gmail.com <br/>
-🐙 <b>GitHub:</b> https://github.com/your-username <br/>
-💼 <b>LinkedIn:</b> https://linkedin.com/in/your-profile
+📧 <b>Email:</b> 8391soumya nayak <br/>
+💼 <b>LinkedIn:</b> 
+<a href="https://www.linkedin.com/in/soumyashreenayak18/" target="_blank">
+linkedin.com/in/soumyashreenayak18
+</a>
 </p>
 
 ---
 
 <div align="center">
 
-<h2>☠️ Philosophy</h2>
-<h3><i>"Write Code Today That Still Works Tomorrow."</i></h3>
+<h3>⚡ Code • Create • Conquer ⚡</h3>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:203a43,50:0f2027,100:000000&height=160&section=footer"/>
+<!-- FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer"/>
 
 </div>

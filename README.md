@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- 🌟 ULTRA GRAPHICAL ANIMATED HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=Soumyashree%20Nayak&fontSize=48&fontColor=ffffff&animation=glitch&desc=Full%20Stack%20Developer%20•%20MERN%20Engineer&descSize=18&descAlignY=70&color=gradient&customColorList=0:0f0c29,50:302b63,100:24243e"/>
+<!-- 🎨 RANDOM COLOR ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=wave&height=320&section=header&text=Soumyashree%20Nayak&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20•%20MERN%20Engineer&descSize=18&descAlignY=70&color=gradient&customColorList=0:0f0c29,50:302b63,100:24243e"/>
 
-<!-- ✨ SMOOTH TYPING EFFECT -->
+<!-- ✨ TYPING EFFECT -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=780&lines=Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Python+%7C+Java+%7C+C+%7C+SQL;UI+%2B+Backend+%2B+Design;Turning+Ideas+Into+Impactful+Apps" />
 
 <br/><br/>
 
-<!-- 🔥 MODERN BADGES -->
+<!-- 🔥 BADGES -->
 <img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-00F7FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MERN-STACK-24243E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DESIGNER%20%26%20CODER-302b63?style=for-the-badge"/>
@@ -20,16 +20,16 @@
 <h2>👩‍💻 About Me</h2>
 
 <p>
-Hi! I’m <b>Soumyashree Nayak</b> — a passionate <b>Full Stack Developer + Designer</b> creating 
+Hi! I’m <b>Soumyashree Nayak</b>, a passionate <b>Full Stack Developer + Designer</b> creating 
 <strong>modern, visually appealing, and scalable web applications</strong>. 
-I love building systems that are both powerful under the hood and beautiful to look at.
+I build systems that are both functional under the hood and stunning to look at.
 </p>
 
 <ul>
   <li>🎓 B.Sc IT (2nd Year)</li>
   <li>💻 MERN Stack Developer</li>
   <li>🎨 Designer + Dev Hybrid</li>
-  <li>🔥 Problem-solving & system design fanatic</li>
+  <li>🔥 Problem-solving & system design enthusiast</li>
 </ul>
 
 ---
@@ -38,7 +38,7 @@ I love building systems that are both powerful under the hood and beautiful to l
 
 <div align="center">
 
-<!-- 🌐 Core Web -->
+<!-- 🌐 Web & MERN -->
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
 <br/><br/>
 
@@ -60,7 +60,7 @@ I love building systems that are both powerful under the hood and beautiful to l
   <li>⚡ REST API & Secure Backend Systems</li>
   <li>⚡ Role-based Authentication (JWT, OTP)</li>
   <li>⚡ SQL & NoSQL Databases</li>
-  <li>⚡ Visually Clean UI + Functional Backend</li>
+  <li>⚡ Clean UI + Functional Backend</li>
 </ul>
 
 ---
@@ -69,7 +69,7 @@ I love building systems that are both powerful under the hood and beautiful to l
 
 <ul>
   <li>
-    <b>🔐 Authentication System</b><br/>
+    <b>🔐 Advanced Authentication System</b><br/>
     JWT • OTP Verification • bcrypt • Role-Based Access
   </li>
   <br/>

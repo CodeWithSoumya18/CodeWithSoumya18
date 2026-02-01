@@ -1,44 +1,44 @@
 <div align="center">
 
-<!-- 🚀 ULTRA MODERN ANIMATED HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:0f0c29,50:302b63,100:24243e&text=Soumyashree%20Nayak&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20MERN%20Engineer&descAlignY=65&descSize=18"/>
+<!-- 🌟 ULTRA GRAPHICAL ANIMATED HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=Soumyashree%20Nayak&fontSize=48&fontColor=ffffff&animation=glitch&desc=Full%20Stack%20Developer%20•%20MERN%20Engineer&descSize=18&descAlignY=70&color=gradient&customColorList=0:0f0c29,50:302b63,100:24243e"/>
 
 <!-- ✨ SMOOTH TYPING EFFECT -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2600&pause=900&color=7DF9FF&center=true&vCenter=true&width=800&lines=Designing+Modern+Web+Experiences;Engineering+Scalable+Backends;React+%7C+Node+%7C+MongoDB;Python+%7C+Java+%7C+C+%7C+SQL;Turning+Ideas+Into+Impactful+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=780&lines=Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Python+%7C+Java+%7C+C+%7C+SQL;UI+%2B+Backend+%2B+Design;Turning+Ideas+Into+Impactful+Apps" />
 
 <br/><br/>
 
-<!-- 🔥 PREMIUM BADGES -->
-<img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-7DF9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MERN-STACK-302b63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-SCALABLE%20SYSTEMS-24243e?style=for-the-badge"/>
+<!-- 🔥 MODERN BADGES -->
+<img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN-STACK-24243E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DESIGNER%20%26%20CODER-302b63?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<h2>👨‍💻 About Me</h2>
+<h2>👩‍💻 About Me</h2>
 
 <p>
-I’m <b>Soumyashree Nayak</b>, a <b>Full Stack Developer</b> passionate about building
-<strong>modern, secure, and high-performance web applications</strong>.
-I enjoy crafting clean UI, powerful backend systems, and databases that scale.
+Hi! I’m <b>Soumyashree Nayak</b> — a passionate <b>Full Stack Developer + Designer</b> creating 
+<strong>modern, visually appealing, and scalable web applications</strong>. 
+I love building systems that are both powerful under the hood and beautiful to look at.
 </p>
 
 <ul>
   <li>🎓 B.Sc IT (2nd Year)</li>
   <li>💻 MERN Stack Developer</li>
-  <li>⚙️ Backend, APIs & Authentication Expert</li>
-  <li>🔥 Strong problem-solving & system thinking</li>
+  <li>🎨 Designer + Dev Hybrid</li>
+  <li>🔥 Problem-solving & system design fanatic</li>
 </ul>
 
 ---
 
-<h2>🧠 Languages • Frameworks • Tools</h2>
+<h2>🧰 Languages & Tools</h2>
 
 <div align="center">
 
-<!-- 🌐 Web & MERN -->
+<!-- 🌐 Core Web -->
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
 <br/><br/>
 
@@ -46,31 +46,31 @@ I enjoy crafting clean UI, powerful backend systems, and databases that scale.
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
 <br/><br/>
 
-<!-- 🛠️ Developer Tools -->
+<!-- 🛠️ Tools & Designer -->
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,photoshop" />
 
 </div>
 
 ---
 
-<h2>🚀 What I Build</h2>
+<h2>💥 What I Build</h2>
 
 <ul>
-  <li>✔️ Full Stack Web Applications</li>
-  <li>✔️ Secure Authentication Systems (JWT, OTP, Roles)</li>
-  <li>✔️ RESTful APIs & Backend Architecture</li>
-  <li>✔️ SQL & NoSQL Database Design</li>
-  <li>✔️ Clean, Maintainable & Scalable Code</li>
+  <li>⚡ Full Stack Web Applications</li>
+  <li>⚡ REST API & Secure Backend Systems</li>
+  <li>⚡ Role-based Authentication (JWT, OTP)</li>
+  <li>⚡ SQL & NoSQL Databases</li>
+  <li>⚡ Visually Clean UI + Functional Backend</li>
 </ul>
 
 ---
 
-<h2>💣 Featured Projects</h2>
+<h2>🚀 Featured Projects</h2>
 
 <ul>
   <li>
-    <b>🔐 Advanced Authentication System</b><br/>
-    JWT • OTP Email Verification • bcrypt • Role-Based Access
+    <b>🔐 Authentication System</b><br/>
+    JWT • OTP Verification • bcrypt • Role-Based Access
   </li>
   <br/>
   <li>
@@ -80,7 +80,7 @@ I enjoy crafting clean UI, powerful backend systems, and databases that scale.
   <br/>
   <li>
     <b>🧑‍💼 Role-Based Admin Panel</b><br/>
-    Admin & Employee Dashboards • Permissions • Secure Login
+    Admin + Employee Dashboards • Permissions • Secure Login
   </li>
 </ul>
 
@@ -89,9 +89,11 @@ I enjoy crafting clean UI, powerful backend systems, and databases that scale.
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true"/>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true"/>
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1"/>
 </div>
 
 ---
@@ -100,7 +102,7 @@ I enjoy crafting clean UI, powerful backend systems, and databases that scale.
 
 <p>
 📧 <b>Email:</b> 8391soumya nayak <br/>
-💼 <b>LinkedIn:</b>
+💼 <b>LinkedIn:</b> 
 <a href="https://www.linkedin.com/in/soumyashreenayak18/" target="_blank">
 linkedin.com/in/soumyashreenayak18
 </a>
@@ -110,11 +112,10 @@ linkedin.com/in/soumyashreenayak18
 
 <div align="center">
 
-<h2>⚔️ Developer Philosophy</h2>
-<h3><i>“Build clean. Think scalable. Ship confidently.”</i></h3>
+<h3>⚡ Code • Design • Deploy • Repeat ⚡</h3>
 
-<!-- 🌌 CINEMATIC FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:24243e,50:302b63,100:0f0c29&section=footer"/>
+<!-- 🌌 FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=wave&height=160&color=gradient&customColorList=0:24243e,50:302b63,100:0f0c29&section=footer"/>
 
 </div>
 

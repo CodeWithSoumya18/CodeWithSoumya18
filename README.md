@@ -95,7 +95,7 @@ I enjoy working across frontend, backend, and databases to deliver complete solu
 <h2>🌐 Connect With Me</h2>
 
 <p>
-📧 <b>Email:</b> 8391soumya nayak <br/>
+📧 <b>Email:</b> 8391soumyanayak@gmail.com <br/>
 💼 <b>LinkedIn:</b> 
 <a href="https://www.linkedin.com/in/soumyashreenayak18/" target="_blank">
 linkedin.com/in/soumyashreenayak18

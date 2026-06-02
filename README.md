@@ -26,7 +26,7 @@ I build systems that are both functional under the hood and stunning to look at.
 </p>
 
 <ul>
-  <li>🎓 B.Sc IT (2nd Year)</li>
+  <li>🎓 B.Sc IT (3rd Year)</li>
   <li>💻 MERN Stack Developer</li>
   <li>🎨 Designer + Dev Hybrid</li>
   <li>🔥 Problem-solving & system design enthusiast</li>
